@@ -1,2 +1,2 @@
 # vidaloka
-Pq a vida eh loka, nego
+Pq a vida eh loka
